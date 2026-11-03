@@ -4,6 +4,8 @@
 
 ## 参考与证据边界
 
+- [AI体验站流程板（用户认可的生成案例）](../assets/style-references/clinical-examples/ai-experience-workflow.png)：用户于2026-11-03明确认可此生图案例。借鉴近白阅读亮区与边角冷紫冰蓝色域、大标题与小临的顶部平衡、轻薄面板、清楚的大序号与线性图标；横版多步骤任务可参考两行递进路线，详见[传播任务示例第5节](clinical-examples.md#5-ai体验站流程板用户认可的生成案例)。不把四步数量、16:9、具体文案或小临位置固定为通用模板；图中未贴正式Logo，不继承此缺项。
+
 产品介绍、扫码单页、专科演示与展架的布局取舍，按需参看 [传播任务示例](clinical-examples.md) 及对应原图。示例用于理解信息关系，不将其业务内容、Logo落位或标题特效自动升级为默认。
 
 - [产品介绍与小课堂](../assets/style-references/clinical-default/product-and-classroom.png)：取紫蓝背景、集中产品或礼品主视觉与曲线收尾，不继承白边贴纸标题与散落彩带，不自动添加IP或礼品。
